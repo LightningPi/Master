@@ -1,6 +1,8 @@
 # Master
 碩士畢業論文<br/>
 開發PHP網頁雛形系統 (個人作品)<br/>
+資料庫檔案：personalsearch.sql <br/>
+系統後台檔案位置：back資料夾<br/>
 系統建置規格：<br/>
 PHP、JavaScript、MySQL、CSS、HTML<br/>
 <br/>
@@ -24,7 +26,6 @@ PHP、JavaScript、MySQL、CSS、HTML<br/>
 (2)搜尋結果列表<br/>
 (3)儲存CKIP斷詞結果，讀取文字文件(.txt)內容，存進資料庫<br/>
 <br/>
-後台系統檔案位置：back資料夾<br/>
 <br/>
 由於CKIP斷詞系統<br/>
 無法線上動態執行<br/>
