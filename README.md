@@ -4,10 +4,10 @@
 系統後台檔案位置：back資料夾<br/>
 資料庫檔案：personalsearch.sql <br/>
 <br/>
-系統建置規格：<br/>
+一、系統建置規格：<br/>
 PHP、JavaScript、MySQL、CSS、HTML<br/>
 <br/>
-系統主要功能與流程：<br/>
+二、系統主要功能與流程：<br/>
 1.使用者回饋流程：<br/>
 (1)使用者註冊會員<br/>
 (2)使用者登入<br/>
@@ -28,7 +28,7 @@ PHP、JavaScript、MySQL、CSS、HTML<br/>
 (3)儲存CKIP斷詞結果，讀取文字文件(.txt)內容，存進資料庫<br/>
 <br/>
 <br/>
-附註：<br/>
+三、系統展示方式限制：<br/>
 由於中央研究院CKIP中文斷詞系統<br/>
 文章斷詞流程<br/>
 需將準備斷詞文章<br/>
