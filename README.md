@@ -33,7 +33,8 @@ PHP、JavaScript、MySQL、CSS、HTML<br/>
 需將準備斷詞文章<br/>
 另存成文字文件<br/>
 並使用CKIP官方提供的，命令提示字元執行檔案<br/>
-才可傳送到CKIP伺服器進行中文斷詞<br/>
+才可傳送文章到CKIP伺服器<br/>
+進行中文斷詞<br/>
 <br/>
 故無法將實驗之後新增的文章<br/>
 即時進行線上CKIP中文斷詞<br/>
