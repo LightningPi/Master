@@ -29,7 +29,7 @@ PHP、JavaScript、MySQL、CSS、HTML<br/>
 <br/>
 <br/>
 附註：<br/>
-由於CKIP斷詞系統<br/>
+由於中央研究院CKIP斷詞系統<br/>
 無法線上動態執行<br/>
 當初進行實驗時<br/>
 CKIP斷詞已預先執行完成<br/>
